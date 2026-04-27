@@ -11,7 +11,7 @@ const links = [
   },
   {
     label: "LinkedIn",
-    handle: "Alejandro Juárez Hernández",
+    handle: "Alejandro Emmanuel Juárez Hernández",
     url: "https://www.linkedin.com/in/alejandro-emmanuel-juarez-hernandez",
     desc: "Mi perfil profesional",
   },
@@ -90,7 +90,7 @@ export default function Contact() {
                 &nbsp;&nbsp;<span className="text-[#7dd3fc]">name</span>
                 <span className="text-[#ff8800]">:</span>{" "}
                 <span className="text-[#e2f0ff]">
-                  "Alejandro Juárez Hernández"
+                  "Alejandro Emmanuel Juárez Hernández"
                 </span>
                 <span className="text-[#ff8800]">,</span>
               </p>
@@ -199,7 +199,7 @@ export default function Contact() {
             // construido con Next.js, TypeScript y Tailwind CSS
           </p>
           <p className="text-[#1e3a5f] text-xs font-mono">
-            © 2026 Alejandro Juárez Hernández
+            © 2026 Alejandro Emmanuel Juárez Hernández
           </p>
         </div>
       </div>

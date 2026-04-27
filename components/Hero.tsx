@@ -41,7 +41,7 @@ export default function Hero() {
 
         {/* Nombre */}
         <h1 className="text-4xl md:text-5xl font-bold text-[#e2f0ff] text-center leading-tight">
-          Alejandro
+          Alejandro Emmanuel
           <br />
           <span className="text-[#ff8800]">Juárez Hernández</span>
         </h1>
